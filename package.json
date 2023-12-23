@@ -4,7 +4,7 @@
   "description": "Group N Final Project Revou, Bring Oceans Life App restfull API",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "npm start",
     "make_perm": "node ./command/make_perm.js",
     "test": "jest"
   },
