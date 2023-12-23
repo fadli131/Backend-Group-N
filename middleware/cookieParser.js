@@ -1,4 +1,5 @@
-const cookieParser = require('cookie-parser')
+const cookieParser = require('cookieparser');
+
 
 module.exports = (app) => {
     app.use(cookieParser());
